@@ -1,0 +1,7 @@
+The Intel AVS MAX98357A machine driver (max98357a.c, utils.h) is
+GPL-2.0-only, Copyright (c) 2021-2023 Intel Corporation.
+
+The install/rebuild scripts and configuration files in this repository
+are also released under GPL-2.0-only.
+
+See the SPDX headers in each source file.
