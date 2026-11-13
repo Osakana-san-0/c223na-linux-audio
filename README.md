@@ -1,6 +1,6 @@
 # C223NA Linux audio
 
-Acer Chromebook 311 C223NA（ボード名 **Babymega**）向けに、Debian 上で内蔵スピーカー・ヘッドホン・内蔵マイクを有効にするセットです。
+ASUS Chromebook C223NA（ボード名 **Babymega**）向けに、Debian 上で内蔵スピーカー・ヘッドホン・内蔵マイクを有効にするセットです。
 
 Debian の公式カーネルはスピーカー用 `CONFIG_SND_SOC_INTEL_AVS_MACH_MAX98357A` を無効にしています。このリポジトリはその欠けている AVS マシンドライバをビルドし、Babymega 用の ALSA UCM エントリを追加します。
 
